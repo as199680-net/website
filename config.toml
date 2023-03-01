@@ -7,6 +7,7 @@ googleAnalytics = "G-H61P8V5F03"
 #disqusShortname = "my-site"
 
 title = "AS199680"
+baseurl = "https://as199680.net/"
 
 # (Optional) Set this to true if you use capital letters in file names
 disablePathToLower = false
