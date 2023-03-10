@@ -1,3 +1,2 @@
-# prefix,country_code,region_code,city
-2a05:dfc7:9020::/48,NL,NL-NH,Amsterdam
-2a05:dfc7:9100::/48,PL,PL-10,Tomaszow Mazowiecki
+2a05:dfc7:9020::/48,NL,NL-NH,Amsterdam,1019
+2a05:dfc7:9100::/48,PL,PL-10,Tomaszow Mazowiecki,97200
