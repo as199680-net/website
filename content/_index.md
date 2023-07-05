@@ -1,6 +1,10 @@
 ---
-title: Introduction
-type: docs
+weight: 1
+title: AS199680 | Kszczot
+bookToc: false
 ---
 
-# AS199680
+# Introduction
+
+AS199680 is a educational and research network. The purpose of this network is mainly to learn. \
+It was established on 28th February 2023.
